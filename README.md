@@ -4,7 +4,7 @@ Projeto desenvolvido em Power BI para análise de vendas, lucratividade e desemp
 
 ## Dashboard
 
-(Insira aqui a imagem do dashboard)
+<img width="911" height="516" alt="image" src="https://github.com/user-attachments/assets/1118c290-7601-48cb-bb1a-7fdab50cb59e" />
 
 ## Indicadores
 
